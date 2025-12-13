@@ -15,7 +15,8 @@ I build clean data pipelines, predictive models, and dashboards that help organi
 
 ## 🔗 Socials  
 [LinkedIn](https://www.linkedin.com/in/devraj-patil-191b01246/) 
-[Portfolio](https://datascienceportfol.io/devpatil)  
+[Portfolio]([https://datascienceportfol.io/devpatil](https://devpatilumd.github.io/DmP_portfolio/
+)  
 
 ---
 
